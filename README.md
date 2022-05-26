@@ -1,2 +1,4 @@
 # powr-ddos
-bash powr-ddos.sh
+unzip powr.zip
+Pass : 1234
+bash powr.sh
